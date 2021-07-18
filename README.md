@@ -3,7 +3,7 @@
 - 🔭 Take a look at my repositories!
 - 🌱 I’m currently learning Javascript, React, Next.js, Firebase
 - 👯 I’m looking to collaborate on Frontend mentor hardest projects :D
-- 🤔 I’m looking for now job opportunities :)
+- 🤔 I’m looking for new job opportunities :)
 - 📫 How to reach me: karimwebdevelopment@gmail.com
 - ⚡ Fun fact: I have no idea on how i started coding XD
 
