@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Frontend mentor hardest projects :D
 - 🤔 I’m looking for new job opportunities :)
 - 📫 How to reach me: karimwebdevelopment@gmail.com
-- ⚡ Fun fact: I have no idea on how i started coding XD
+- ⚡ Fun fact: I'm not a programmer, im a problem solver =)
 
 
 ## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Galielo-App.todo-app)
