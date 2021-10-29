@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Take a look at my repositories!
-- 🌱 I’m currently working at an awesome company called NeoLife!
+- 🌱 I’m a cryptocurrency fan!
 - 👯 I’m looking to collaborate on Frontend mentor hardest projects :D
 - 📫 How to reach me: karimwebdevelopment@gmail.com ,
 - ⚡ Fun fact: I'm not a programmer, im a problem solver =)
