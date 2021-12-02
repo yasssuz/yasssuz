@@ -13,3 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galielo-App&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/Galielo-App/Galielo-App/blob/output/github-contribution-grid-snake.svg)
+
