@@ -15,7 +15,7 @@
 ## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Galielo-App.todo-app)
 
 <div align="center">
-  <a href="https://github.com/engenny">
+  <a href="https://github.com/Galielo-App">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Galielo-App&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galielo-App&layout=compact&langs_count=7&theme=dracula"/>
 </div>
