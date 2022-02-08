@@ -10,7 +10,7 @@
 - 🔭 Take a look at my repositories!
 - 🌱 I’m a cryptocurrency fan!
 - 👯 I’m looking to collaborate on Frontend-mentor hardest projects :D
-- 📫 How to reach me: karimwebdevelopment@gmail.com ,
+- 📫 How to reach me: yasssuzwebdev@protonmail.ch,
 - ⚡ Fun fact: I'm not a programmer, im a problem solver =)
 
  <div>
