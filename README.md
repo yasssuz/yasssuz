@@ -11,7 +11,6 @@
 - 🌱 I’m a cryptocurrency fan!
 - 👯 I’m looking to collaborate on Frontend-mentor hardest projects :D
 - 📫 How to reach me: yasssuzwebdev@protonmail.ch,
-- ⚡ Fun fact: I'm not a programmer, im a problem solver =)
 
  <div>
    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
