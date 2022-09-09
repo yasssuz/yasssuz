@@ -12,21 +12,7 @@
 - 👯 I’m looking to collaborate on Frontend-mentor hardest projects :D
 - 📫 How to reach me: yasssuzwebdev@protonmail.ch,
 
- <div>
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <i class="devicon-nextjs-plain" font-size="50px"></i>
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
- </div>
-
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwindcss,styledcomponents,emotion,js,ts,react,next,solidity,graphql,vite,git&theme=dark)](https://skills.thijs.gg)
 
 ## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=yasssuz.todo-app)
 
