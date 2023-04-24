@@ -10,7 +10,7 @@
 - 🔭 Take a look at my repositories!
 - 🌱 I’m a cryptocurrency fan!
 - 👯 I’m looking to collaborate on Frontend-mentor hardest projects :D
-- 📫 How to reach me: yasssuzwebdev@protonmail.ch,
+- 📫 How to reach me: gh.pxus9@8shield.net,
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwindcss,styledcomponents,emotion,js,ts,react,next,solidity,graphql,vite,git&theme=dark)](https://skills.thijs.gg)
 
