@@ -8,7 +8,7 @@
 ## My name is Karim! 👾
 
 - 🔭 Take a look at my repositories!
-- 🌱 I’m a cryptocurrency fan and blockchain researcher!
+- 🌱 I’m a cryptocurrency analyst and blockchain researcher!
 - 👯 I’m looking to collaborate on open-source projects :D
 - 📫 How to reach me: gh.pxus9@8shield.net.
 
